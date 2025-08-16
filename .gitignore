@@ -1,0 +1,5 @@
+# Pasta de build
+/build
+
+# Arquivos de usuário do CMake
+CMakeUserPresets.json
