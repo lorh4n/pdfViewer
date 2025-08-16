@@ -26,6 +26,7 @@
 ---
 
 ## ⚙️ Configuração Inicial
+### 🕜 13:36
 
 - Instalei o **vcpkg** como gerenciador de dependências.
 - Configurei o **CMake** básico com `add_executable(...)`.
@@ -33,7 +34,7 @@
 - Adicionei a pasta `build/` ao `.gitignore`.
 
 ---
-
-## 🕜 13:36
+### 🕜 15:46
+Eu conigurei o vcpkg e instalei o ninja (tenho que estudar sobre ele depois)
 
 *(Continuação do desenvolvimento...)*
