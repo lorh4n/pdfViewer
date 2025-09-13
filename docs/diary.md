@@ -35,6 +35,6 @@
 
 ---
 ### 🕜 15:46
-Eu conigurei o vcpkg e instalei o ninja (tenho que estudar sobre ele depois)
+Eu conigurei o vcpkg e instalei o Ninja (tenho que estudar sobre ele depois) e criei o CMakePresets.json 
 
 *(Continuação do desenvolvimento...)*
